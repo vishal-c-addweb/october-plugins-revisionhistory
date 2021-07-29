@@ -6,3 +6,7 @@ Revision History is an OctoberCMS plugin developed to enables the option the vie
 ----------
  - Review Record Revisions at Record & Field Level.
  - Revert Back to Changes from Record & Field Level.
+ - Easy to Revert Back to the Old Content.
+ - Clarity of Changes made.
+ - Quickens the Process.
+ - Easy Identification of User who made the Change
