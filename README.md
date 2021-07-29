@@ -10,3 +10,8 @@ Revision History is an OctoberCMS plugin developed to enables the option the vie
  - Clarity of Changes made.
  - Quickens the Process.
  - Easy Identification of User who made the Change
+
+**Installation**
+----------
+ 1. Add this plugin to a project.
+ 2. Follow steps from revisionhistory plugin documentation.
