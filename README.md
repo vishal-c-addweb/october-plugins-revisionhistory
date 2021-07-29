@@ -9,7 +9,7 @@ Revision History is an OctoberCMS plugin developed to enables the option the vie
  - Easy to Revert Back to the Old Content.
  - Clarity of Changes made.
  - Quickens the Process.
- - Easy Identification of User who made the Change
+ - Easy Identification of User who made the Change.
 
 **Installation**
 ----------
